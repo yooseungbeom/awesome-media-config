@@ -19,4 +19,4 @@ hystrix:
           thread:
             timeoutInMilliseconds: 60000
             
-name: yoo
+name: ssss
